@@ -1,3 +1,3 @@
 # Lucid Desktop Themes
 
-The Lucid OS desktop theme 
+The Desktop Theme for LucidOS. More varations on later versions maybe?
